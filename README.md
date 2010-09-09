@@ -1,0 +1,1 @@
+![The build pig](http://sweetnr.com/images/build-monitor.jpg)
